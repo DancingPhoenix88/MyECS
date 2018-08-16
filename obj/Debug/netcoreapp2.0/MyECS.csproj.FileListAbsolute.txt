@@ -1,0 +1,11 @@
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/bin/Debug/netcoreapp2.0/MyECS.deps.json
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/bin/Debug/netcoreapp2.0/MyECS.runtimeconfig.json
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/bin/Debug/netcoreapp2.0/MyECS.runtimeconfig.dev.json
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/bin/Debug/netcoreapp2.0/MyECS.dll
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/bin/Debug/netcoreapp2.0/MyECS.pdb
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.csprojResolveAssemblyReference.cache
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.csproj.CoreCompileInputs.cache
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.AssemblyInfoInputs.cache
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.AssemblyInfo.cs
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.dll
+/Users/hoang.vu/Downloads/Workspace/Unity/MyECS/obj/Debug/netcoreapp2.0/MyECS.pdb
